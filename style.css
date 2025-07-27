@@ -178,7 +178,6 @@ article .btn{
 /* <!-- Recommendation --> */
 .card-list{
   display: flex;
-  flex-wrap: wrap;
   gap: 2rem;
 }
 
